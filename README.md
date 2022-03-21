@@ -2,6 +2,8 @@
 
 El siguiente código en **C++** corre perfectamente, sin embargo tiene varios puntos que tienen que mejorar siguiendo los principos de la herencia de clases, accesos, sobre-escritura, funciones virtuales y destructores.
 
+Nota!!: Soy katherine, mi codigo se puede ver cuando se apreta una opcion que se llama fork, o al menos esa es la unica forma en la que lo logro ver
+
 ```c++
 #include <iostream>  // allows program to output data to the screen
 
